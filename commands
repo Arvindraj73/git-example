@@ -15,5 +15,12 @@ git reset - undo the add command
 
 push an existing repository from the command line
 git remote add origin https://github.com/Arvindraj73/git-example.git
-git branch -M master
 git push -u origin master
+
+clone a online repository
+git clone <repo url>
+
+npm init - configure node
+
+npm install lite-server --save-dev
+lite-server - server like xampp
