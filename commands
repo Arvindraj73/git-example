@@ -1,0 +1,4 @@
+git init - make folder a repo
+git status - status of repo
+git add . - add all files to staging area
+git commit - commit the changes to repo
